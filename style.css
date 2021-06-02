@@ -49,4 +49,10 @@ hr {
   position: fixed;
   bottom: 1%;
   right: 1%;
+  
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0%;
 }
