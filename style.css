@@ -27,7 +27,7 @@ hr {
 
 .btn {
   font-weight: 700;
-  border-radius: 200px;
+  border-radius: 10px;
   text-transform: uppercase;
 }
 
@@ -50,9 +50,4 @@ hr {
   bottom: 1%;
   right: 1%;
   
-}
-
-.bottom {
-  position: fixed;
-  bottom: 0%;
 }
