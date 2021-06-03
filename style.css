@@ -3,29 +3,19 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(https://media.giphy.com/media/L1pluusjFE6ZO/giphy.gif) no-repeat center center fixed; 
+  background: url("coming soon.gif") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: black;
+  background-color: #6b4d4d;
 }
 
 h1 {
   font-size: 3rem;
-  color: #e2dbdb;
+  color: #6b4d4d;
 }
 
-hr {
-  border-color: #ff8000;
-  border-width: 3px;
-  max-width: 65px;
-}
-
-object {
-  position: fixed;
-  bottom: 0%;
-}
 
 .buffer {
   height: 10rem;
@@ -33,28 +23,26 @@ object {
 
 .btn {
   font-weight: 700;
-  border-radius: 10px;
+  border-radius: 5px;
   text-transform: uppercase;
 }
 
 .btn-primary {
-  background-color: #ff8000;
-  border-color: #ff8000;
+  background-color: #6b4d4d;
+  border-color: #6b4d4d;
 }
 
 .btn-primary:hover {
-  background-color: #ffc000;
-  border-color: #ffc000;
+  background-color: #784646;
+  border-color: #784646;
 }
 
 .btn-xl {
   padding: 1rem 2rem;
 }
 
-.btn-bottom {
-  position: fixed;
-  bottom: 1%;
-  right: 1%;
-  
+.btn-right {
+ position: fixed;
+  right: 0%;
 }
 
