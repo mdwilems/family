@@ -53,6 +53,6 @@ hr {
 }
 
 .txt-bottom {
-  position: relative;
+  position: absolute;
   bottom: 0%;
 }
