@@ -51,3 +51,8 @@ hr {
   right: 1%;
   
 }
+
+.txt-bottom {
+  position: fixed;
+  bottom: 0%;
+}
