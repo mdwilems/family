@@ -23,7 +23,7 @@ h1 {
 
 .btn {
   font-weight: 700;
-  border-radius: 5px;
+  border-radius: 50px;
   text-transform: uppercase;
 }
 
@@ -41,8 +41,4 @@ h1 {
   padding: 1rem 2rem;
 }
 
-.btn-right {
- position: fixed;
-  right: 0%;
-}
 
