@@ -19,17 +19,14 @@ h1 {
 .btn {
   font-weight: 700;
   border-radius: 50px;
+  background-color: #6b4d4d;
+  border-color: #6b4d4d;
   text-transform: uppercase;
 }
 
-.btn-primary {
-  background-color: #6b4d4d;
-  border-color: #6b4d4d;
-}
-
-.btn-primary:hover {
+.btn:hover {
   background-color: #784646;
-  border-color: #784646;
+  border-color: #784646;  
 }
 
 .btn-xl {

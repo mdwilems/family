@@ -19,14 +19,12 @@ h1 {
   border-radius: 50px;
   text-transform: uppercase;
   color:  white;
-}
-
-.btn-primary {
   background-color: #b84406;
   border-color: #b84406;
 }
 
-.btn-primary:hover {
+
+.btn:hover {
   background-color: black;
   border-color: black;
 }
