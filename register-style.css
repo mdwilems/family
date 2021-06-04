@@ -1,0 +1,41 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #6b4d4d;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color:  white;
+}
+
+.btn-primary {
+  background-color: #b84406;
+  border-color: #b84406;
+}
+
+.btn-primary:hover {
+  background-color: black;
+  border-color: black;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+#mc_embed_signup {
+  clear:left; font:14px Montserrat,Arial,sans-serif;
+}
+
