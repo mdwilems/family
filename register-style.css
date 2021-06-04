@@ -15,23 +15,22 @@ h1 {
 }
 
 .btn {
-  font-weight: 700;
-  border-radius: 50px;
-  text-transform: uppercase;
-  color:  white;
-  background-color: #b84406;
-  border-color: #b84406;
+  font-weight: 700 !important;
+  border-radius: 50px !important;
+  text-transform: uppercase !important;
+  color:  white !important;
+  background-color: #b84406 !important;
+  border-color: #b84406 !important;
 }
 
-
 .btn:hover {
-  background-color: black;
-  border-color: black;
-  color: white;
+  background-color: black !important;
+  border-color: black !important;
+  color: white !important;
 }
 
 .btn-xl {
-  padding: 1rem 2rem;
+  padding: 1rem 2rem !important;
 }
 
 #mc_embed_signup {
